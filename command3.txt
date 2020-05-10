@@ -1,0 +1,9 @@
+ls
+la -la 
+cat command3.txt
+
+vim command3.txt
+a - insert 
+esc + :wq - write and quit
+esc + :!q - quit without saving
+esc + :q - quit
