@@ -1,0 +1,8 @@
+git status
+git add command2.txt
+git commit -m "add command2"
+git push origin user1
+
+git branch
+git branch user1
+git checkout user1
